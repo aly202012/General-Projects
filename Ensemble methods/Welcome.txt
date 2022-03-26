@@ -1,0 +1,3 @@
+welcome ...
+
+In this folder, I will solve some problems using the Ensemble methods, and we will also try to invent good things, and let's continue learning.
